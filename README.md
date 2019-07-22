@@ -1,5 +1,7 @@
 # MyProfile
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/InkoHX/MyProfile.svg)](https://greenkeeper.io/)
+
 > My pioneering Nuxt.js project
 
 ## Build Setup
